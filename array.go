@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"strings"
+)
 
 func main() {
 	var a [2]string
@@ -16,4 +19,5 @@ func main() {
 	b[0] = "HELLO"
 	b[1] = "WORLD"
 	fmt.Println(b)
+	fmt.Println(strings.Split("a,b,c", ","))
 }
