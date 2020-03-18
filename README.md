@@ -1,5 +1,5 @@
 # tour-of-go
 
-## Continue from blow
+## Complete
 
-- <https://go-tour-jp.appspot.com/methods/9>
+- https://go-tour-jp.appspot.com/list
